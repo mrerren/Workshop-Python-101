@@ -1,0 +1,12 @@
+Versi python yang digunakan untuk tutorial ini adalah versi 2.7.*.
+
+download python:
+https://www.python.org/downloads/windows/
+
+pastikan python telah terinstall menggunakan CMD atau lainnya:
+python --version
+>> Python 2.7.xx
+
+jika belum kama atur Path python pada Environment Variables
+C:\Python27\Scripts
+C:\Python27

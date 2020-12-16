@@ -1,0 +1,4 @@
+Editor Teks yang digunakan:
+Linux = Vim, dll.
+MacOS = Emacs, dll.
+Windows = VSCode, dll.
