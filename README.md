@@ -17,3 +17,9 @@
     |-> Urutan Evaluasi
     |-> Mengubah Urutan Evaluasi
     |-> Sifat Asosiatif
+4. Alur Kontrol
+    |-> Statement IF
+    |-> Statement WHILE
+    |-> Perulangan FOR
+    |-> Statement BREAK
+    |-> Statement CONTINUE
