@@ -1,0 +1,1 @@
+Operator % jika digunakan untuk string bukan berarti modulus melainkan string format.

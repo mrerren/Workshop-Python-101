@@ -1,0 +1,3 @@
+Program Python dapat dijalankan dengan beberapa mode. Jika kita mengeksekusi Python interpreter tanpa argumen script Python yang telah kita buat, Python interpreter akan masuk ke mode interaktif (REPL, read-eval-print loop).
+
+Dengan memanfaatkan mode interaktif python kita bisa menggunakannya sebagai kalkulator.

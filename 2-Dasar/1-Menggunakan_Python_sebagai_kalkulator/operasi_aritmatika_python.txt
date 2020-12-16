@@ -1,0 +1,9 @@
+
+Operasi	|| Keterangan
+ +	        Menambahkan dua obyek
+ -	        Mengurangi obyek dengan obyek yang lain
+ *	        Perkalian
+ **	        Pangkat
+ /	        Pembagian
+ //	        Pembagian bulat ke bawah
+ %	        Sisa hasil bagi (modulus)

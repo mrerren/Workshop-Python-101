@@ -1,0 +1,14 @@
+Variabel dapat menyimpan nilai dengan berbagi tipe disebut dengan tipe data. Bilangan dan string adalah tipe dasar, yang sudah dibahas sebelumnya. Pada latihan berikutnya akan dibahas tipe data yang lain.
+
+Anda menggunakan type untuk menentukan tipe data variabel / obyek yang ada.
+
+>>> type(1)
+<type 'int'>
+>>> type(3.2)
+<type 'float'>
+>>> type(2 ** 1000)
+<type 'long'>
+>>> type('abc')
+<type 'str'>
+>>> type('a')
+<type 'str'>
