@@ -1,0 +1,1 @@
+Operator dengan level urutan evaluasi yang sama akan dievaluasi dari kiri ke kanan. Sebagai contoh 2 + 3 + 4 akan dievaluasi sebagai (2 + 3) + 4. Beberapa operator seperti pengisian nilai (assignment) mempunyai sifat asosiatif dari kanan ke kiri, contoh: a = b = c akan dievaluasi a = (b = c).

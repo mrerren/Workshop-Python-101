@@ -1,0 +1,42 @@
+Kita akan melihat operator secara singkat dan bagaimana penggunaannya:
+
+Operator || Keterangan
++	        Menambahkan dua obyek
+-	        Mengurangi obyek dengan obyek yang lain
+*	        Perkalian
+**	        Pangkat
+/	        Pembagian
+//	        Pembagian bulat ke bawah
+%	        Sisa hasil bagi (modulus)
+<<	        (geser kiri) Menggeser bit ke sebelah kiri sesuai dengan jumlah bit yang ditentukan.
+            2 << 2 menghasilkan 8. 2 direpresentasikan 10 dalam bit (binary digit). Menggeser 2 bit kekiri akan menghasilkan 1000 yang merupakan representasi dari desimal 8.
+>>	        (geser kanan) Menggeser bit ke sebelah kanan sesuai dengan jumlah bit yang ditentukan.
+            11 > 1 menghasilkan 5. 11 direpresentasikan oleh bit dengan 1011 kemudian digeser kekanan 1 bit menghasilkan 101 yang merupakan desimal angka 5.
+&	        (bit-wise AND)
+            Operasi bit-wise AND dari angka (bit-wise adalah operasi angka berbasis bit yakni dengan 0 dan 1). 5 & 3 menghasilkan 1.
+|           (bit-wise OR)
+            Operasi bit-wise OR dari angka. 5 | 3 menghasilkan 7.
+^	        (bit-wise XOR)
+            Operasi bit-wise XOR (ekslusif OR). 5 ^ 3 menghasilkan 6.
+~	        (bit-wise invert)
+            Operasi membalikkan angka bitwise dari x, menghasilkan -x - 1. ~5 akan menghasilkan -6. lihat two’s complement.
+<	        (kurang dari)
+            Mengembalikan apakah x kurang dari y. Semua operator pembanding mengembalikan True atau False. 5 < 3 mengembalikan False, 3 < 5 mengembalikan True dan 2 < 5 < 7 mengembalikan Tr   ue.
+>	        (lebih dari)
+            Mengembalikan apakah x lebih dari y. 5 > 3 mengembalikan True.
+<=	        (kurang dari atau sama dengan)
+            Mengembalikan apakah x kurang dari atau sama dengan y. 5 <= 5 mengembalikan True.
+>=	        (lebih dari atau sama dengan)
+            Mengembalikan apakah x lebih dari atau sama dengan y. 5 >= 5 mengembalikan True.
+==	        (sama dengan)
+            Membandingkan apakah kedua obyek sama. 2 == 2 mengembalikan True, 'nama' == 'Nama' mengembalikan False, 'nama' == 'nama' mengembalikan True.
+!=	        (tidak sama dengan)
+            Membandingkan apakah kedua obyek berbeda. 2 != 3 mengembalikan True.
+not	        (boolean NOT)
+            Jika x bernilai True akan mengembalikan False. Jika x bernilai False akan mengembalikan True. x = True; not x mengembalikan False.
+and	        (boolean AND)
+            x and y mengembalikan False jika x bernilai False, selain itu akan mengembalikan nilai y.
+            x = False; y = True; x and y akan mengembalikan False karena x bernilai False. Pada kasus ini Python tidak akan mengevaluasi y karena nilai x. Hal ini disebut short-circuit evaluasi.
+or	        (boolean OR)
+            Jika x bernilai True, x or y akan mengembalikan True, selain itu akan mengembalikan nilai y.
+            x = True; y = False; x or y mengembalikan True. short-circuit evaluasi berlaku juga disini.

@@ -1,0 +1,26 @@
+Berikut tabel urutan evaluasi ekspresi dalam Python, dari terrendah sampai tertinggi.
+
+Operator        ||     Keterangan
+lamda	                Ekspresi lambda
+or	                    Boolean OR
+and	                    Boolean AND
+not x	                Boolean NOT
+in, not in	            Tes Keanggotaan
+is, is not	            Tes Identitas
+<, <=, >, >=, !=, ==	Perbandingan
+|	                    Bitwise OR
+^	                    Bitwise XOR
+&	                    Bitwise AND
+<<, >>	                Shift
++, -	                Penambahan dan Pengurangan
+*, /, //, %	            Perkalian, Pembagian, Pembagian ke bawah, mod
++x, -x	                Positif, Negatif
+~x	                    Bitwise NOT / inverse
+**	                    Pangkat
+x.attribute	            Referensi atribut
+x[index]	            Akses item
+x[index1:index2]	    Slicing
+f(argument ...)         Pemanggilan fungsi
+(ekspresi, ...)	        literal tuple
+[ekspresi, ...]	        literal list
+{key:value, ...}	    literal dictionary
