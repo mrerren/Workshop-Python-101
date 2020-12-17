@@ -1,0 +1,9 @@
+.:. Kontributor .:.
+1. Swaroop C H, untuk bukunya ‘Byte of Python’. 
+    https://swaroopch.com/
+
+2. Ahmad Sofyan, untuk translasi Bahasa Indonesia buku Byte of Python.
+    https://github.com/asofyan
+
+3. Sakti Dwi Cahyono.
+    https://github.com/sakti
