@@ -1,0 +1,5 @@
+Setelah mencoba modul lat21 (tanpa .py). Anda akan menemukan file lat21.pyc pada direktori yang sama.
+
+Jika anda melakukan import suatu modul, modul tersebut akan di interpret terlebih dahulu. Untuk 
+optimisasi python akan membuat file byte-compiled modul tersebut dalam file .pyc sehingga import 
+modul tidak harus melakukan compile.

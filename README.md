@@ -32,3 +32,9 @@
     |-> Parameter VarArgs
     |-> Statement RETURN
     |-> DocString
+6. Modul
+    |-> Byte-Compiled
+    |-> Statement From ... Import
+    |-> Nama Modul
+    |-> Fungsi dir
+    |-> Package
