@@ -53,3 +53,7 @@
     |-> Method Init
     |-> Instance
     |-> Inheritance
+9. Input dan Output
+    |-> Input dari Pengguna
+    |-> File
+    |-> Pickle

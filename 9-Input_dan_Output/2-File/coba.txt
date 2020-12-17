@@ -1,0 +1,3 @@
+ini adalah isi dari file
+yang akan ditulis
+menggunakan python
