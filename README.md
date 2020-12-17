@@ -57,3 +57,10 @@
     |-> Input dari Pengguna
     |-> File
     |-> Pickle
+10. Exception
+    |-> Syntax Error
+    |-> Exception
+    |-> Penanganan Exception
+    |-> Mengeluarkan Exception
+    |-> Try Finally
+    |-> Statement WITH

@@ -1,0 +1,12 @@
+Syntax error, atau dikenal juga sebagai parsing error, adalah error ketika Python memparsing program anda.
+
+>>> Print 'halo'
+  File "<stdin>", line 1
+  Print 'halo'
+            ^
+SyntaxError: invalid syntax
+>>> while True print 'Hello world'
+  File "<stdin>", line 1
+  while True print 'Hello world'
+                 ^
+SyntaxError: invalid syntax

@@ -1,0 +1,8 @@
+Kita akan mencoba / try membaca input dari pengguna. Tekan Ctrl-d apa yang akan terjadi.
+
+>>> teks = raw_input('Ketikkan sesuatu: ')
+Ketikkan sesuatu: Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+EOFError
+Python mengeluarkan eksepsi EOFError yang berarti menemukan simbol end of file (direpresentasikan 
+oleh Ctrl-d) ketika program berharap tidak akan ada.
