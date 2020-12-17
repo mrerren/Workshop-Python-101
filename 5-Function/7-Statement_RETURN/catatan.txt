@@ -1,0 +1,3 @@
+Statemen return digunakan untuk keluar dari fungsi. Kita juga dapat menspesifikasikan nilai 
+kembalian. Seperti pada latihan 20 melainkan mencetak hasil jumlah dalam blok fungsi, fungsi total 
+mengembalikan nilai jumlah ke pemanggil.

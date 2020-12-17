@@ -23,3 +23,12 @@
     |-> Perulangan FOR
     |-> Statement BREAK
     |-> Statement CONTINUE
+5. Function
+    |-> Parameter Function
+    |-> Variabel Lokal
+    |-> Penggunaan Statement GLOBAL
+    |-> Nilai Argument Default
+    |-> Keyword Argument
+    |-> Parameter VarArgs
+    |-> Statement RETURN
+    |-> DocString
