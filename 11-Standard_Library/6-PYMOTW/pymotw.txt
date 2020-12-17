@@ -1,0 +1,5 @@
+Masih ada banyak modul yang ada di Python. Untuk menjelajahi modul-modul yang tersedia di Python anda 
+dapat membaca Python Module of The Week yang membahas modul python satu per satu.
+
+Python Module of The Week:
+https://pymotw.com/2/

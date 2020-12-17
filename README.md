@@ -64,3 +64,10 @@
     |-> Mengeluarkan Exception
     |-> Try Finally
     |-> Statement WITH
+11. Standard Library
+    |-> Module getpass
+    |-> Module random
+    |-> Module datetime
+    |-> Module math
+    |-> Module sys
+    |-> PYMOTW
