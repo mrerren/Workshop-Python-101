@@ -1,0 +1,7 @@
+Dalam deklarasi method pada class terdapat perbedaan yaitu ada parameter pertama yang harus 
+ditambahkan pada parameter fungsi. Parameter ini diberi nama self, nilai dari parameter ini menunjuk 
+ke obyek / instance itu sendiri.
+
+Nilai self ini disediakan oleh Python. Contoh, ada class ClassSaya yang mempunyai instance obyek 
+obyeksaya. Ketika method dipanggil pada obyek obyeksaya.method(arg1, arg2), secara otomatis diubah 
+oleh Python menjadi ClassSaya.method(obyeksaya, arg1, arg2).

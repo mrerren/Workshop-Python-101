@@ -46,3 +46,10 @@
     |-> Set
     |-> Referensi
     |-> String
+8. OOP
+    |-> Self
+    |-> Class
+    |-> Method Obyek
+    |-> Method Init
+    |-> Instance
+    |-> Inheritance
