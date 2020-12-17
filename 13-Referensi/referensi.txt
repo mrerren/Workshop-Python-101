@@ -1,0 +1,12 @@
+.:. Referensi .:.
+
+Belajar Python online:
+1. Python Monk. Free, interactive tutorials to help you discover Python idioms, in your browser!
+    http://pythonmonk.com/
+2. Code Academy. Learn to code interactively, for free.
+    https://www.codecademy.com/catalog/language/python
+3. Byte of Python, (Byte of Python versi Indonesia in progress)
+    https://swaroopch.com/
+    https://github.com/asofyan/byte_of_python
+4. Learn Python The Hard Way
+    https://learnpythonthehardway.org/book/
