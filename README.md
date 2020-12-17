@@ -38,3 +38,11 @@
     |-> Nama Modul
     |-> Fungsi dir
     |-> Package
+7. Struktur Data
+    |-> List
+    |-> Tuple
+    |-> Dictionary
+    |-> Sequence
+    |-> Set
+    |-> Referensi
+    |-> String
