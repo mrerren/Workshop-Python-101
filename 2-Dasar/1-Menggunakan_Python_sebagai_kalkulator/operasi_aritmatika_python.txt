@@ -7,3 +7,28 @@ Operasi	|| Keterangan
  /	        Pembagian
  //	        Pembagian bulat ke bawah
  %	        Sisa hasil bagi (modulus)
+
+contoh penggunaan Operasi Aritmatika pada mode Interaktif python.
+Python 2.7.18 (v2.7.18:8d21aa21f2, Apr 20 2020, 13:25:05) [MSC v.1500 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+## Menambahkan dua obyek
+>>> 5 + 6
+11
+## Mengurangi obyek dengan obyek yang lain
+>>> 9 - 4
+5
+## Perkalian
+>>> 5 * 3
+15
+## Pangkat
+>>> 5 ** 2
+25
+## Pembagian
+>>> 20 / 5
+4
+## Pembagian bulat ke bawah
+>>> 5 // 2
+2
+## Sisa hasil bagi (modulus)
+>>> 20 % 5
+0

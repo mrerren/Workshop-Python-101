@@ -1,4 +1,6 @@
-Variabel dapat menyimpan nilai dengan berbagi tipe disebut dengan tipe data. Bilangan dan string adalah tipe dasar, yang sudah dibahas sebelumnya. Pada latihan berikutnya akan dibahas tipe data yang lain.
+Variabel dapat menyimpan nilai dengan berbagi tipe disebut dengan tipe data. Bilangan dan string 
+adalah tipe dasar, yang sudah dibahas sebelumnya. Pada latihan berikutnya akan dibahas tipe data yang 
+lain.
 
 Anda menggunakan type untuk menentukan tipe data variabel / obyek yang ada.
 

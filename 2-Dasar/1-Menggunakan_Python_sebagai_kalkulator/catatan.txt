@@ -2,4 +2,4 @@ mode eksekusi lain:
 
 -m Mengeksekusi module, contoh: python -m SimpleHTTPServer untuk membuat webserver statis
 
--c Mengeksekusi command dari pameter yang diterima, contoh: python -c 'import this' untuk menampilkan Zen of Python.
+-c Mengeksekusi command dari parameter yang diterima, contoh: python -c 'import this' untuk menampilkan Zen of Python.

@@ -1,3 +1,19 @@
-Program Python dapat dijalankan dengan beberapa mode. Jika kita mengeksekusi Python interpreter tanpa argumen script Python yang telah kita buat, Python interpreter akan masuk ke mode interaktif (REPL, read-eval-print loop).
+Program Python dapat dijalankan dengan beberapa mode. Jika kita mengeksekusi Python interpreter tanpa 
+argumen script Python yang telah kita buat, Python interpreter akan masuk ke mode interaktif (REPL, 
+read-eval-print loop).
 
 Dengan memanfaatkan mode interaktif python kita bisa menggunakannya sebagai kalkulator.
+
+untuk masuk kedalam mode interaktif, pada cmd cukup ketikan python.
+untuk keluar dari mode interaktif, pada cmd cukup tekan CTRL + C pada keyboard.
+
+mode interaktif biasanya ditandai dengan tanda triple right arrow >>>
+
+contoh dari mode interaktif python
+Python 2.7.18 (v2.7.18:8d21aa21f2, Apr 20 2020, 13:25:05) [MSC v.1500 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 4 + 5
+9
+>>> 6 - 3
+3
+>>>
